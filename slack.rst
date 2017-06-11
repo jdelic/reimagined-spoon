@@ -1,7 +1,7 @@
-A Slack Policy
-==============
+Asynchronous communiation
+=========================
 
-As with every communication tool, people use it differently everywhere and like
+People use every communication tool differently everywhere and like
 every CTO/Head of <anything>/Team lead, I have my own thoughts about what
 constitutes effective use. This document contains those thoughts.
 
@@ -20,6 +20,18 @@ the cost of serious drawbacks. For more context, you can refer to:
   `has written on the topic <Private Offices Redux_>`_ (and really any other
   topic as well)
     
+Instead, we can safely say, that every synchronous communication
+interaction also incurs a huge cost. In my mind, there are only two roles when
+I interrupt what you are doing at your desk: perpetrator and victim.
+
+=========================  ============================
+Synchronous communication  Asynchronous communication
+=========================  ============================
+Phone call                 Chat tools
+Walking over to your desk  Email
+Walking into your office   Ticket system
+Shouting across the room   A post-it left on your desk
+=========================  ============================
     
 .. _Joel Spolsky:
 .. _joelonsoftware: https://www.joelonsoftware.com/
