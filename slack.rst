@@ -16,8 +16,8 @@ the cost of serious drawbacks. For more context, you can refer to:
 * `When the walls come down`_ 
 * `Why we still believe in private offices <Private Offices Redux_>`_
 * The book Peopleware by Tom DeMarco and Timothy Lister
-* Everything that `Joel Spolsky`__ 
-  has written on the topic <Private Offices Redux>`__ (and really any other
+* Everything that `Joel Spolsky`_ 
+  `has written on the topic <Private Offices Redux_>`_ (and really any other
   topic as well)
     
     
