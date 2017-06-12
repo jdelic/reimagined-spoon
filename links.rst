@@ -1,8 +1,8 @@
-A collection of links
+A Collection of Links
 =====================
 
-Here is a list of articles and useful information that informed all of my
-current views and how I work.
+Here is a list of articles and useful information that informed my current
+views about how I work and how I lead.
 
 
 About Company Culture
@@ -20,6 +20,12 @@ About work
 
 2. `Spotify Engineering Culture Part 1 <sec_1_>`_ and `Part 2 <sec_2_>`_
 
+3. `Programmer, Interrupted`_ "A programmer is likely to get just one
+   uninterrupted two-hour session in a day". This results of this study inform
+   many of my views about `Asynchronous Communication <slack_>` and why you
+   should never interrupt someone when another mode of communication suffices
+   and is available.
+
 
 
 .. _The culture Deck: https://theculturedeck.com/
@@ -33,3 +39,4 @@ About work
 .. _sec_2:
 .. _Spotify Engineering Culture Part 2:
     https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/
+.. _slack: slack.rst
