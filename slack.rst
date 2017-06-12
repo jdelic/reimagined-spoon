@@ -24,14 +24,17 @@ Instead, we can safely say, that every synchronous communication
 interaction also incurs a huge cost. In my mind, there are only two roles when
 I interrupt what you are doing at your desk: perpetrator and victim.
 
-=========================  ============================
-Synchronous communication  Asynchronous communication
-=========================  ============================
-Phone call                 Chat tools
-Walking over to your desk  Email
-Walking into your office   Ticket system
-Shouting across the room   A post-it left on your desk
-=========================  ============================
+    =========================    ============================
+    Synchronous communication    Asynchronous communication
+    =========================    ============================
+    Phone call                   Chat tools
+    Walking over to your desk    Email
+    Walking into your office     Ticket system
+    Shouting across the room     A post-it left on your desk
+    =========================    ============================
+
+So when in doubt, always choose an asynchronous way of communicating, unless
+you need to communicate something urgent.
 
 .. _Joel Spolsky:
 .. _joelonsoftware: https://www.joelonsoftware.com/
