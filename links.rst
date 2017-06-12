@@ -14,4 +14,4 @@ current views and how I work.
 
 .. _The culture Deck: https://theculturedeck.com/
 .. _Culture Eats Strategy for Breakfast:
-https://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/
+    https://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/
