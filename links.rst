@@ -39,4 +39,6 @@ About work
 .. _sec_2:
 .. _Spotify Engineering Culture Part 2:
     https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/
+.. _Programmer, Interrupted:
+    http://www.gamasutra.com/view/feature/190891/programmer_interrupted.php
 .. _slack: slack.rst
