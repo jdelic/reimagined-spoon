@@ -18,7 +18,7 @@ About work
 ----------
 1. `Kanban for Everyone`_
 
-2. `Spotify Engineering Culture Part 1 <sec_1>`_ and `Part 2 <sec_2>`_
+2. `Spotify Engineering Culture Part 1 <sec_1_>`_ and `Part 2 <sec_2_>`_
 
 
 
