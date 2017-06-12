@@ -22,9 +22,9 @@ About work
 
 3. `Programmer, Interrupted <programmer_>`_. "A programmer is likely to get
    just one uninterrupted two-hour session in a day". This results of this
-   study inform many of my views about `asynchronous
-   communication <slack_>`_ and why you should never interrupt someone when
-   another mode of communication suffices and is available.
+   study inform many of my views about `asynchronous communication <slack_>`_
+   and why you should never interrupt someone when another mode of
+   communication suffices and is available.
 
 
 .. _The culture Deck: https://theculturedeck.com/
