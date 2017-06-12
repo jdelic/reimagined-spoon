@@ -20,7 +20,7 @@ About work
 
 2. `Spotify Engineering Culture Part 1 <sec_1_>`_ and `Part 2 <sec_2_>`_
 
-3. `Programmer, Interrupted`_. "A programmer is likely to get just one
+3. `Programmer Interrupted`_. "A programmer is likely to get just one
    uninterrupted two-hour session in a day". This results of this study inform
    many of my views about `Asynchronous Communication <slack_>` and why you
    should never interrupt someone when another mode of communication suffices
