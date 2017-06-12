@@ -1,5 +1,5 @@
-Asynchronous communiation
-=========================
+Asynchronous communication
+==========================
 
 People use every communication tool differently everywhere and like
 every CTO/Head of <anything>/Team lead, I have my own thoughts about what
