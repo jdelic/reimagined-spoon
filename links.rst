@@ -30,7 +30,7 @@ About work
    should act when a decision was delegated.
 
 5. `Words of Estimative Probability <wep_>`_ points you toward better
-   communication practices for uncertainty.
+   communication practices for expressing uncertainty.
 
 
 .. _The culture Deck: https://theculturedeck.com/
