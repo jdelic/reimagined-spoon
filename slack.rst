@@ -70,6 +70,8 @@ too many.
 
 .. _Joel Spolsky:
 .. _joelonsoftware: https://www.joelonsoftware.com/
-.. _Private Offices Redux: https://www.joelonsoftware.com/2006/07/30/private-offices-redux/
-.. _When the walls come down: http://www.oxfordeconomics.com/when-the-walls-come-down
+.. _Private Offices Redux:
+    https://www.joelonsoftware.com/2006/07/30/private-offices-redux/
+.. _When the walls come down:
+    http://www.oxfordeconomics.com/when-the-walls-come-down
 .. _destalinator: https://github.com/randsleadershipslack/destalinator
