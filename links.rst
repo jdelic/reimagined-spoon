@@ -26,6 +26,12 @@ About work
    and why you should never interrupt someone when another mode of
    communication suffices and is available.
 
+4. `Decisions and who owns them`_ by my friend Kristian Glass distills how we
+   should act when a decision was delegated.
+
+5. `Words of Estimative Probability <wep_>`_ points you toward better
+   communication practices for uncertainty.
+
 
 .. _The culture Deck: https://theculturedeck.com/
 .. _Culture Eats Strategy for Breakfast:
@@ -42,3 +48,5 @@ About work
 .. _Programmer, interrupted:
     http://www.gamasutra.com/view/feature/190891/programmer_interrupted.php
 .. _slack: slack.rst
+.. _Decisions and who owns them: https://blog.doismellburning.co.uk/decisions/
+.. _wep: https://blog.doismellburning.co.uk/words-of-estimative-probability/
