@@ -64,8 +64,27 @@ Slack channels are cheap
 We run `destalinator`_. This is a bot that will reap unused Slack channels and
 keep everything tidy and clean up after you. On the other hand that means that
 we can open Slack channels for everything and use them as long as we need them
-and it makes sense to keep them. So never worry about opening a Slack channel
-too many.
+and it makes sense to keep them. After that they will disappear magically. So
+never worry about opening a Slack channel too many.
+
+Walk treaded paths
+~~~~~~~~~~~~~~~~~~
+Especially as managers ee often try to anticipate the "ideal pattern" for
+communication and often that pattern needs to reflect certain business
+realities. For example, the structure of JIRA projects and what source code
+goes into what repositories creates dependencies that are hard to change later
+and so "designing" them beforehand makes good sense.
+
+However, I don't feel that the same is true for structures that are as easy to
+change like the channel structure on a chat server. As I already mentioned,
+*channels are cheap*. So I don't think that we should enforce any particular
+channel structure. Instead, trust people to self-organize into efficient
+groups and do the same for your own work. Don't fear being part of many, many,
+channels! Use Slack's per-conversation notification settings and powerful
+configuration options to ensure that you're part of the conversations that are
+useful for you without impacting other peoples' options to communicate with
+each other.
+
 
 
 .. _Joel Spolsky:
