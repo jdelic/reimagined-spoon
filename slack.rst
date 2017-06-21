@@ -34,7 +34,8 @@ Shouting across the room     A post-it left on your desk
 =========================    ============================
 
 So when in doubt, always choose an asynchronous way of communicating, unless
-you need to communicate something urgent.
+you need to communicate something urgent. That's where Slack becomes a really
+useful tool.
 
 
 "Fail Open"
@@ -48,13 +49,13 @@ Let's unpack the above statement:
 
 * Obviously some things in a company need to be kept secret. Some information
   is protected by law (employment information, customer information, etc.) and
-  some information is volatile to the company (downsizing discussions,
+  some information is volatile to the company (revenue information,
   employee performance).
 * But generally, it's much better to discuss anything openly, but in such a way
-  that it doesn't disrupt other peoples' work.
+  that it also doesn't disrupt other peoples' work.
 * So in that case, open a Slack channel, open a ticket, create a collaborative
   mindmap or wiki page and pull in the people needed to work on it, but make
-  the process, the discussion and the result widely available.
+  the *process*, the *discussion* and *its result* widely available.
 
 
 Slack channels are cheap
@@ -84,7 +85,6 @@ channels! Use Slack's per-conversation notification settings and powerful
 configuration options to ensure that you're part of the conversations that are
 useful for you without impacting other peoples' options to communicate with
 each other.
-
 
 
 .. _Joel Spolsky:
