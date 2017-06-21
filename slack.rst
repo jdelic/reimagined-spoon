@@ -38,6 +38,30 @@ you need to communicate something urgent. That's where Slack becomes a really
 useful tool.
 
 
+What do you mean by "asynchronous" anyway?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In this case "asynchronous" means two things:
+ 1. "not immediate" and
+ 2. "under the receivers control".
+
+Unlike when you walk up to my desk, with a chat tool I get to *choose when to
+process your message*. I also get to choose myself when I want to be part of
+a conversation inside a channel or just read up on what happened later or
+ignore the conversation outright. On the other hand, I am also responsible for
+making sure that I am part of the channels and conversations that I want to
+follow and configuring my notification options so I only get interrupted by
+things that are important to me.
+
+You can use chat tools to send someone messages in such a way that they are
+alerted to them (in Slack you do this by putting an '@' in front of their
+name), but in general, you shoudn't expect anyone to just drop what they're
+doing and answer you. The idea of a chat tool is that people can tune in and
+out of a conversation and respond to messages when it's convenient for them.
+Ideally they are able to finish a task before answering, letting them structure
+their time more efficiently, while still providing everyone with a way of
+communication that is less formal than an email, for example.
+
+
 "Fail Open"
 -----------
 **"If you have no explicit obligation or reason to keep something to yourself,
@@ -57,6 +81,13 @@ Let's unpack the above statement:
   mindmap or wiki page and pull in the people needed to work on it, but make
   the *process*, the *discussion* and *its result* widely available.
 
+So avoid private one-on-one chats unless you are discussing something really
+private. If it's just something that "might not interest everybody in this
+channel" and if it's going to be a longer conversation, just move the
+discussion to its own channel, this way you still give people a chance to
+participate, just like when you meet at the coffee machine and talk about
+something in earshot of other people.
+
 
 Slack channels are cheap
 ------------------------
@@ -68,9 +99,9 @@ we can open Slack channels for everything and use them as long as we need them
 and it makes sense to keep them. After that they will disappear magically. So
 never worry about opening a Slack channel too many.
 
-Walk treaded paths
-~~~~~~~~~~~~~~~~~~
-Especially as managers ee often try to anticipate the "ideal pattern" for
+Allow people to self-organize
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Especially as managers we often try to anticipate the "ideal pattern" for
 communication and often that pattern needs to reflect certain business
 realities. For example, the structure of JIRA projects and what source code
 goes into what repositories creates dependencies that are hard to change later
@@ -87,6 +118,28 @@ useful for you without impacting other peoples' options to communicate with
 each other.
 
 
+Avoid naked pings!
+------------------
+`Nobody likes naked pings`_ lists a whole list of articles about why those are
+harmful. But I'm going to sum it up here:
+
+**Don't send messages to people saying just "Are you there?" or "do you have a
+moment?" or "can you call me?"**
+
+Those are called "naked pings". Non-actionable calls to action. The missing
+part is context, i.e. "why do you need me?", "what do you want to talk about?",
+"what can I help you with?". Instead try and let people know what you need
+from them when you contact them. As mentioned above,
+
+1. this allows them to use their own time efficiently and judge whether they
+   can reply to your request right away or rather finish something up first and
+2. it removes the inherent passive-aggressiveness of asking someone to do
+   something without telling them why.
+
+So instead be a good chat neighbor and say: "Hey, can we have a short call? I'm
+struggling with your code in module X, I can't figure out how it does Y."
+
+
 .. _Joel Spolsky:
 .. _joelonsoftware: https://www.joelonsoftware.com/
 .. _Private Offices Redux:
@@ -94,3 +147,5 @@ each other.
 .. _When the walls come down:
     http://www.oxfordeconomics.com/when-the-walls-come-down
 .. _destalinator: https://github.com/randsleadershipslack/destalinator
+.. _Nobody likes naked pings:
+    https://blog.doismellburning.co.uk/nobody-likes-naked-pings/
