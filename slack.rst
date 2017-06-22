@@ -31,6 +31,7 @@ useful tool.
 
 What do you mean by "asynchronous" anyway?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 In this case "asynchronous" means two things:
  1. "not immediate" and
  2. "under the receivers control".
