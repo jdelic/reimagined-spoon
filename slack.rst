@@ -2,8 +2,8 @@ Asynchronous communication
 ==========================
 
 People use every communication tool differently everywhere and like
-every CTO/Head of <anything>/Team lead, I have my own thoughts about what
-constitutes effective use. This document contains those thoughts.
+every CTO, I have my own thoughts about what constitutes effective use. This
+document contains those thoughts.
 
 
 Asynchronous communication is a quick win for any IT organization
