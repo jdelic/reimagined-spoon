@@ -35,17 +35,17 @@ In this case "asynchronous" means two things:
  1. "not immediate" and
  2. "under the receivers control".
 
-* Examples synchronous communication
-    - Phone call
-    - Walking over to your desk
-    - Walking into your office
-    - Shouting across the room
+Examples synchronous communication
+- Phone call
+- Walking over to your desk
+- Walking into your office
+- Shouting across the room
 
-* Examples for asynchronous communication
-    - Chat tools
-    - Email
-    - Ticket system
-    - A post-it left on a desk
+Examples for asynchronous communication
+- Chat tools
+- Email
+- Ticket system
+- A post-it left on a desk
 
 Unlike when you walk up to my desk, with a chat tool I get to *choose when to
 process your message*. I also get to choose myself when I want to be part of
