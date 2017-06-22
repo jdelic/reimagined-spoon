@@ -38,14 +38,13 @@ In this case "asynchronous" means two things:
  =========================================================
  Examples
  =========================================================
- =========================    ============================
  Synchronous communication    Asynchronous communication
- =========================    ============================
+ -------------------------    ----------------------------
  Phone call                   Chat tools
  Walking over to your desk    Email
  Walking into your office     Ticket system
  Shouting across the room     A post-it left on your desk
- =========================    ============================
+ -------------------------    ----------------------------
 
 
 Unlike when you walk up to my desk, with a chat tool I get to *choose when to
