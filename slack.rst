@@ -32,19 +32,16 @@ useful tool.
 What do you mean by "asynchronous" anyway?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In this case "asynchronous" means two things:
-
  1. "not immediate" and
  2. "under the receivers control".
 
 * Examples synchronous communication
-
     - Phone call
     - Walking over to your desk
     - Walking into your office
     - Shouting across the room
 
 * Examples for asynchronous communication
-
     - Chat tools
     - Email
     - Ticket system
