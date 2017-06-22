@@ -35,9 +35,10 @@ In this case "asynchronous" means two things:
  1. "not immediate" and
  2. "under the receivers control".
 
+ =========================================================
+ Examples
  =========================    ============================
- Examples of Synchronous      Examples of Asynchronous
- communication                communication
+ Synchronous communication    Asynchronous communication
  =========================    ============================
  Phone call                   Chat tools
  Walking over to your desk    Email
