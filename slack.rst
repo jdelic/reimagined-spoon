@@ -25,9 +25,8 @@ interaction also incurs a huge cost. In my mind, there are only two roles when
 I interrupt what you are doing at your desk: perpetrator and victim.
 
 So when in doubt, always choose an asynchronous way of communicating, unless
-you need to communicate something urgent. That's where Slack becomes a really
-useful tool.
-
+you need to communicate something really urgent. That's how Slack becomes a
+really useful tool.
 
 What do you mean by "asynchronous" anyway?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -55,14 +54,24 @@ making sure that I am part of the channels and conversations that I want to
 follow and configuring my notification options so I only get interrupted by
 things that are important to me.
 
-You can use chat tools to send someone messages in such a way that they are
+You can use Slack to send someone messages in such a way that they are
 alerted to them (in Slack you do this by putting an '@' in front of their
-name), but in general, you shoudn't expect anyone to just drop what they're
+name), but even then, you shouldn't expect anyone to just drop what they're
 doing and answer you. The idea of a chat tool is that people can tune in and
-out of a conversation and respond to messages when it's convenient for them.
-Ideally they are able to finish a task before answering, letting them structure
-their time more efficiently, while still providing everyone with a way of
-communication that is less formal than an email, for example.
+out of a conversation and respond to messages when it's convenient for them and
+even when you ping them directly, they ideally are able to finish a task before
+answering, letting them structure their time more efficiently, while still
+providing everyone with a way of communication that is less formal and more
+efficient than an email.
+
+To summarize
+~~~~~~~~~~~~
+Your responsibility is to make sure that Slack complements and supports your
+work by making sure that your notification settings and channel settings and
+your "away" and "do not disturb" settings are configured optimally.
+
+Everybody else's responsibility is to not abuse the privilege of being able to
+interrupt you in your work.
 
 
 "Fail Open"
@@ -78,17 +87,17 @@ Let's unpack the above statement:
   is protected by law (employment information, customer information, etc.) and
   some information is volatile to the company (revenue information,
   employee performance).
-* But generally, it's much better to discuss anything openly, but in such a way
-  that it also doesn't disrupt other peoples' work.
-* So in that case, open a Slack channel, open a ticket, create a collaborative
+* But generally, it's much better to discuss most things openly, but in such a
+  way that it also doesn't disrupt other peoples' conversations.
+* So open a separate Slack channel, open a ticket or create a collaborative
   mindmap or wiki page and pull in the people needed to work on it, but make
-  the *process*, the *discussion* and *its result* widely available.
+  the *process*, the *discussion* and *its result* widely available by default.
 
-So avoid private one-on-one chats unless you are discussing something really
-private. If it's just something that "might not interest everybody in this
-channel" and if it's going to be a longer conversation, just move the
-discussion to its own channel, this way you still give people a chance to
-participate, just like when you meet at the coffee machine and talk about
+This means avoiding private one-on-one chats unless you are discussing
+something really private. If it's just something that "might not interest
+everybody in this channel" and if it's going to be a longer conversation, just
+move the discussion to its own channel, this way you still give people a chance
+to participate, just like when you meet at the coffee machine and talk about
 something in earshot of other people.
 
 
@@ -124,13 +133,13 @@ each other.
 Avoid naked pings!
 ------------------
 `Nobody likes naked pings`_ lists a whole list of articles about why those are
-harmful. But I'm going to sum it up here:
+harmful. But I'm going to sum up the argument here:
 
 **Don't send messages to people saying just "Are you there?" or "do you have a
 moment?" or "can you call me?"**
 
 Those are called "naked pings". Non-actionable calls to action. The missing
-part is context, i.e. "why do you need me?", "what do you want to talk about?",
+part is context: i.e. "why do you need me?", "what do you want to talk about?",
 "what can I help you with?". Instead try and let people know what you need
 from them when you contact them. As mentioned above,
 
