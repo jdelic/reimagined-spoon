@@ -20,8 +20,9 @@ the cost of serious drawbacks. For more context, you can refer to:
   `has written on the topic <Private Offices Redux_>`_ (and really any other
   topic as well)
 
-Instead, we can safely say, that every synchronous communication
-interaction also incurs a huge cost. In my mind, there are only two roles when
+Regardless of what type of office you work in, I think we can safely deduct
+that every synchronous communication interaction at least incurs some cost.
+That's how I arrived at the conclustion that there are only two roles when
 I interrupt what you are doing at your desk: perpetrator and victim.
 
 So when in doubt, always choose an asynchronous way of communicating, unless
