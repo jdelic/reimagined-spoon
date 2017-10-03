@@ -17,8 +17,7 @@ the cost of serious drawbacks. For more context, you can refer to:
 * `Why we still believe in private offices <Private Offices Redux_>`_
 * The book Peopleware by Tom DeMarco and Timothy Lister
 * Everything that `Joel Spolsky`_
-  `has written on the topic <Private Offices Redux_>`_ (and really any other
-  topic as well)
+  `has written on the topic <Private Offices Redux_>`_
 
 Regardless of what type of office you work in, I think we can safely deduct
 that every synchronous communication interaction at least incurs some cost.
@@ -35,7 +34,7 @@ In this case "asynchronous" means two things:
  1. "not immediate" and
  2. "under the receivers control".
 
-Examples synchronous communication
+Examples for synchronous communication
  * Phone call
  * Walking over to your desk
  * Walking into your office
@@ -109,7 +108,7 @@ Slack channels are cheap
 We run `destalinator`_. This is a bot that will reap unused Slack channels and
 keep everything tidy and clean up after you. On the other hand that means that
 we can open Slack channels for everything and use them as long as we need them
-and it makes sense to keep them. After that they will disappear magically. So
+and it makes sense to keep them. After that they will magically disappear. So
 never worry about opening a Slack channel too many.
 
 Allow people to self-organize
