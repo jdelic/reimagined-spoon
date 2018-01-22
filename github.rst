@@ -24,9 +24,10 @@ Most security arguments about code sharing are bogus. But inefficiencies through
 lacking knowledge sharing or access to knowledge are very real.
 
 As I will repeat below, you should protect your ``master`` branch, so that
-developers can just commit to it whenever. Code review makes sense, almost
+developers can't just commit to it whenever. Code review makes sense, almost
 always. At the very least, once you've hit "1.0", your master branch should
-be protected.
+be protected. For security-relevant code it makes sense to allow only a certain
+group of people to review the code.
 
 If you're working on software containing information that must be protected
 (licensed code, trade secrets, etc.), create an actual threat model and attacker
@@ -85,9 +86,21 @@ Integrate with CI as early as possible
 
 Ratchet your test coverage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+"Ratcheting" means to use one of the many services or tools that read
+``coverage`` information (for example `coveralls <https://coveralls.io/>`__)
+and failing the build when the test coverage goes down. As a good friend and
+my previous co-CTO once said (I'm paraphrasing here from memory):
+"100% test coverage tells you _something_. 0% test coverage also tells you
+_something_. 80% test coverage tells you nothing, because you don't know
+whether you've missed important parts."
 
-Ensure baseline webhook configuration across all repositories
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There is no reason not to improve over the status quo.
+
+Never skip code review
+~~~~~~~~~~~~~~~~~~~~~~
+
+Ensure baseline configuration across all repositories
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
