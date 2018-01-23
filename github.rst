@@ -69,6 +69,13 @@ In my opinion, the following things are good hygiene.
 
 Every repository must have a description and a README
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+These are just not up for discussion :). Every repository must have a README
+that contains at a minimum the following information or links to it:
+
+  * What software does this repo contain
+  * How to use it (e.g. compiling instructions, installation instructions,
+    configuration reference)
+  * If it's anything but an internal project: The applicable license.
 
 Commit a .gitignore to every project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -80,9 +87,6 @@ discovered while working on that repository that should be ignored by Git. I
 have yet to be part of a project where someone wanted to specifically track a
 type of file that someone else wanted to ignore. And even then, you just have
 to specifically `git add` that file once.
-
-Integrate with CI as early as possible
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ratchet your test coverage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -98,12 +102,40 @@ There is no reason not to improve over the status quo.
 
 Never skip code review
 ~~~~~~~~~~~~~~~~~~~~~~
+If you have access to another developer, always let them review your code. It
+improves cross-domain knowledge, catches bugs and edge cases, trains people on
+each other's code and facilitates knowledge sharing. Once your project hits a
+milestone like "version 1.0", it's also a good idea to protect your main
+branches (like commonly ``master`` and/or ``develop``) to ensure that no
+unreviewed code makes it into the repository. Use GitHub's tools to enforce
+this.
+
+If possible, introduce mandatory commit signing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Git is really bad at tracking identity. A repository that does not let
+unsigned commits enter the main line creates a direct line of trust for each
+developer to every line of code they wrote. It's a great tool for security-
+concious companies. It's also really hard to fix a repository that has any
+unsigned commits (resigning commits creates new commit ids), so make that
+decision early.
+
+Integrate with CI as early as possible
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+With the availability of great tools like `CircleCI <https://circleci.com/>`_,
+`TravisCI <https://travisci.org/>`_ and `Concourse.CI <https://concourse.ci/>`_
+and even good old Jenkins, there is no excuse to not run your tests on every
+single commit. Even before you have written any tests, running a Linter,
+perhaps a static analyzer like `mypy <https://mypy-lang.org/>`_ for Python,
+or even just your language's compiler, is a great tool to get a simple baseline
+for code quality going.
 
 Ensure baseline configuration across all repositories
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
+Use the `Terraform Github Provider`_ or write your own GitHub API client, but
+if your organization has more than 10 repositories, definitely regularly run a
+script that ensures common baseline configuration. For example: All repositories
+should have a webhook that connects them to your ticket tracker or calls your
+IRC/Slack Bot.
 
 
 
