@@ -151,7 +151,10 @@ Use the `Terraform Github Provider`_ or write your own GitHub API client, but
 if your organization has more than 10 repositories, definitely regularly run a
 script that ensures common baseline configuration. For example: All repositories
 should have a webhook that connects them to your ticket tracker or calls your
-IRC/Slack Bot.
+IRC/Slack Bot. All developers should have access to all repositories (unless
+your orgnaization is really big, as discussed above). You want to ensure that
+your repository names match a certain template and set the master branch to
+be protected. Things like that.
 
 
 .. _Git Flow: http://nvie.com/posts/a-successful-git-branching-model/
