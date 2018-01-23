@@ -88,10 +88,10 @@ Every repository must have a description and a README
 These are just not up for discussion :). Every repository must have a README
 that contains at a minimum the following information or links to it:
 
-  * What software does this repo contain
-  * How to use it (e.g. compiling instructions, installation instructions,
-    configuration reference)
-  * If it's anything but an internal project: The applicable license.
+ * What software does this repo contain
+ * How to use it (e.g. compiling instructions, installation instructions,
+   configuration reference)
+ * If it's anything but an internal project: The applicable license.
 
 Commit a .gitignore to every project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
