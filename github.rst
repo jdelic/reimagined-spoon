@@ -52,8 +52,6 @@ Don't blindly adopt "some strategy". But make sure you know `Git Flow`_,
 `Github Flow`_ and `Semantic Versioning`_ and that you understand their pros
 and cons.
 
-"C" is for communication
-~~~~~~~~~~~~~~~~~~~~~~~~
 Have a clear way for how development tasks (commonly user stories, tasks,
 bugs and the like) make it into code. Then make sure that all development
 follows that process and that the software you're using to connect to your
@@ -62,6 +60,24 @@ your buildserver, wiki, ticket tracker, thingamajicky... use them to the
 fullest extent possible to support your development processes, product
 management processes and release processes. A mismatch between these will
 create tremendous pain.
+
+"C" is for committing
+~~~~~~~~~~~~~~~~~~~~~
+At the very least, at the end of the day, commit all code to a repo. If it's
+unfinished, commit it to a branch. Never leave code uncommitted.
+
+You might be tempted to sometimes not commit code you've written, because it
+"isn't finished", "it's not ready". You're wrong. There are multiple things at
+play here. One of them is: you might get hit by a bus. And even if that doesn't
+happen, it's not the kind of culture that I as a CTO want in my organization and
+I wouldn't recommend for yours. If you don't feel comfortable sharing unfinished
+work or results that might betray that you're not an expert at something, There
+is a larger problem with your culture that needs to be addressed.
+
+So, at the end of the day: always commit your code. And just like with `Slack
+communication`_: **fail open!** Share your code, share your mistakes, learn
+from your peers.
+
 
 Without further ado: Good practice for GitHub and Git repositories
 ------------------------------------------------------------------
@@ -138,10 +154,13 @@ should have a webhook that connects them to your ticket tracker or calls your
 IRC/Slack Bot.
 
 
-
 .. _Git Flow: http://nvie.com/posts/a-successful-git-branching-model/
 .. _GitHub Flow:
    https://guides.github.com/introduction/flow/?utm_source=onboarding-
    series&utm_medium=email&utm_content=read-the-guide-cta&utm_campaign=
    learn-github-flow-email
 .. _Semantic Versioning: https://semver.org/
+.. _Slack communication:
+   https://github.com/jdelic/reimagined-spoon/blob/master/slack.rst
+.. _Terraform GitHub Provider:
+   https://www.terraform.io/docs/providers/github/index.html
