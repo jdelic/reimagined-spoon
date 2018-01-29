@@ -156,6 +156,18 @@ your orgnaization is really big, as discussed above). You want to ensure that
 your repository names match a certain template and set the master branch to
 be protected. Things like that.
 
+Be a good Git citizen (gitizen?)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you're on Windows, set ``git config core.autocrlf input`` (prevent Windows
+linefeeds from making it into the repo) and ``git config core.fileMode false``
+(because Windows commonly sets the executable bit on everything, at least with
+Cygwin Git).
+
+Also ensure that ``git config user.name "Your name"`` is set and ``git config
+user.email "your.email@example.com"`` is set correctly. Finally add your email
+address to your GitHub account. You can even set origanization-specific
+notification rules.
+
 
 .. _Git Flow: http://nvie.com/posts/a-successful-git-branching-model/
 .. _GitHub Flow:
