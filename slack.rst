@@ -21,12 +21,13 @@ the cost of serious drawbacks. For more context, you can refer to:
 
 Regardless of what type of office you work in, I think we can safely deduct
 that every synchronous communication interaction at least incurs some cost.
-That's how I arrived at the conclustion that there are only two roles when
+That's how I arrived at the conclusion that there are only two roles when
 I interrupt what you are doing at your desk: perpetrator and victim.
 
 So when in doubt, always choose an asynchronous way of communicating, unless
-you need to communicate something really urgent. That's how Slack becomes a
-really useful tool.
+you need to communicate something really urgent. That's how a company chat tool
+like Slack becomes a really useful tool.
+
 
 What do you mean by "asynchronous" anyway?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,10 +53,10 @@ a conversation inside a channel or just read up on what happened later or
 ignore the conversation outright. On the other hand, I am also responsible for
 making sure that I am part of the channels and conversations that I want to
 follow and configuring my notification options so I only get interrupted by
-things that are important to me.
+things that are important to me or you.
 
 You can use Slack to send someone messages in such a way that they are
-alerted to them (in Slack you do this by putting an '@' in front of their
+alerted to them (in Slack you do this by putting a '@' in front of their
 name), but even then, you shouldn't expect anyone to just drop what they're
 doing and answer you. The idea of a chat tool is that people can tune in and
 out of a conversation and respond to messages when it's convenient for them and
@@ -64,12 +65,21 @@ answering, letting them structure their time more efficiently, while still
 providing everyone with a way of communication that is less formal and more
 efficient than an email.
 
-To summarize
-~~~~~~~~~~~~
+Your responsibilities
+~~~~~~~~~~~~---------
 Your responsibility is to make sure that Slack complements and supports your
 work by making sure that your notification settings and channel settings and
 your "away" and "do not disturb" settings are configured optimally.
 
+This is not an excuse to have your notifications snoozed 24/7 or just ignore
+your team's channel. Instead, it's also your responsiblity to communicate
+effectively and respond to other people when you are available. Let them know
+that you have seen their message, even by just adding a :+1: as a reaction.
+Also let the channel know if you're doing something about it. This will avoid
+other people starting to do the same work.
+
+Everybody else's responsibilities
+---------------------------------
 Everybody else's responsibility is to not abuse the privilege of being able to
 interrupt you in your work.
 
