@@ -66,7 +66,7 @@ providing everyone with a way of communication that is less formal and more
 efficient than an email.
 
 Your responsibilities
-~~~~~~~~~~~~---------
+~~~~~~~~~~~~~~~~~~~~~
 Your responsibility is to make sure that Slack complements and supports your
 work by making sure that your notification settings and channel settings and
 your "away" and "do not disturb" settings are configured optimally.
@@ -79,7 +79,7 @@ Also let the channel know if you're doing something about it. This will avoid
 other people starting to do the same work.
 
 Everybody else's responsibilities
----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Everybody else's responsibility is to not abuse the privilege of being able to
 interrupt you in your work.
 
