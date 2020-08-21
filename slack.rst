@@ -13,6 +13,7 @@ been indications that open plan offices are *not* facilitating positive
 communication, good practices or better knowledge sharing, or at least only at
 the cost of serious drawbacks. For more context, you can refer to:
 
+* `The Truth About Open Offices <HBR_Open_Offices_>`__
 * `When the walls come down`_
 * `Why we still believe in private offices <Private Offices Redux_>`_
 * The book Peopleware by Tom DeMarco and Timothy Lister
@@ -168,6 +169,7 @@ struggling with your code in module X, I can't figure out how it does Y."
     https://www.joelonsoftware.com/2006/07/30/private-offices-redux/
 .. _When the walls come down:
     http://www.oxfordeconomics.com/when-the-walls-come-down
+.. _HBR_Open_Offices: https://hbr.org/2019/11/the-truth-about-open-offices
 .. _destalinator: https://github.com/randsleadershipslack/destalinator
 .. _Nobody likes naked pings:
     https://blog.doismellburning.co.uk/nobody-likes-naked-pings/
