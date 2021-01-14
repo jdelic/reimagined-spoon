@@ -67,9 +67,9 @@ efficient than an email.
 
 Your responsibilities as a message receiver
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Your responsibility is to make sure that Slack complements and supports your
-work by making sure that your notification settings and channel settings and
-your "away" and "do not disturb" settings are configured optimally.
+Your responsibility is to make sure that communication tools complement and 
+support your work by making sure that your notification settings and channel 
+settings and your "away" and "do not disturb" settings are configured optimally.
 
 This is not an excuse to have your notifications snoozed 24/7 or to just ignore
 your team's channel. Instead, it's also your responsiblity to communicate
@@ -78,28 +78,47 @@ that you have seen their message, even by just adding a :+1: as a reaction.
 Also let the channel know if you're doing something about the contents of a
 message. This will avoid other people starting to do the same work.
 
+If you regularly have to answer urgent emails, turn on email notifications.
+Otherwise don't.
+
+For example, I check my email 3 or 4 times per work-day or once every couple of 
+days when on vacation. Unread notification badges are turned off for email. I 
+have an autoresponder informing people to contact me via Slack and override my
+notification snooze if their message is urgent.
+
 Your responsibilities as a message sender
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 When sending a message, your responsibility is to not abuse the privilege of 
 being able to interrupt others by overriding their notification settngs. Use
-terms of relative urgency to ensure that the receiver knows what priority
-they should assign to your message.
+terms of relative urgency in your message to ensure that the receiver knows what 
+priority they should assign to your message.
+
+When you override notification settings, explain why you did that. Somebody put
+a "do not disturb" sign on their door and you ignored their wishes. You should
+tell them why.
 
 On the other hand, it's not your job to prevent the other person from receiving
-your communication. You can send your email, your chat message, your asynchronous
+your communication. If we all adhere to the rules laid out in this document, 
+you should be able to send your email, your chat message, your asynchronous
 communication at any time. It's the receiver's responsibility to ensure that
 they are undisturbed by these messages when they want to be left alone for
-whatever reason, like when they are on vacation.
+whatever reason, like when they are on vacation. It's your job to not be bothered
+by the asynchonicity of the interaction or deliberately impose a synchronous
+method when necessary.
 
-Your responsibilities as a manager
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Your responsibilities as a manager in my orgchart
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Don't make asynchronous communication useless to people by demanding they treat
-it like synchronous communication. If you need something urgently, use urgent
-communication methods. Make a concious decision about the cost that you are
-imposing on your victim. If you send an email when someone is on vacation, as
-per above, that's ok. But if you then insist that they check their phone every
-10 minutes so they reply to your email, you have just multiplied the cost
-for everybody immensely. So don't do that.
+it like synchronous communication. 
+
+If you need something urgently, use urgent communication methods. Make a concious 
+decision about the cost that you are imposing on your victim. If you send an email 
+when someone is on vacation, as per above, that's ok. But if you then insist that 
+they check their phone every 10 minutes so they can reply to your email, you have 
+just multiplied the cost for everybody immensely, yourself included. So don't do 
+that. Think about what you are going to do, then override their notification 
+settings.
+
 
 "Fail Open"
 -----------
