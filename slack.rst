@@ -20,7 +20,7 @@ the cost of serious drawbacks. For more context, you can refer to:
 * Everything that `Joel Spolsky`_
   `has written on the topic <Private Offices Redux_>`_
 
-Regardless of what type of office you work in, I think we can safely deduct
+Regardless of what type of office you work in, I think we can safely deduce
 that every synchronous communication interaction at least incurs some cost.
 That's how I arrived at the conclusion that there are only two roles when
 I interrupt what you are doing at your desk: perpetrator and victim.
@@ -36,13 +36,12 @@ In this case "asynchronous" means two things:
  1. "not immediate" and
  2. "under the receivers control".
 
-Examples for synchronous communication
- * Phone call
- * Walking over to your desk
- * Walking into your office
+Examples for synchronous communication methods
+ * Phone/Skype/Whatsapp/Teams/Zoom/etc. call
+ * Walking over to your desk or into your office
  * Shouting across the room
 
-Examples for asynchronous communication
+Examples for asynchronous communication methods
  * Chat tools
  * Email
  * Ticket system
@@ -66,24 +65,41 @@ answering, letting them structure their time more efficiently, while still
 providing everyone with a way of communication that is less formal and more
 efficient than an email.
 
-Your responsibilities
-~~~~~~~~~~~~~~~~~~~~~
+Your responsibilities as a message receiver
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Your responsibility is to make sure that Slack complements and supports your
 work by making sure that your notification settings and channel settings and
 your "away" and "do not disturb" settings are configured optimally.
 
-This is not an excuse to have your notifications snoozed 24/7 or just ignore
+This is not an excuse to have your notifications snoozed 24/7 or to just ignore
 your team's channel. Instead, it's also your responsiblity to communicate
-effectively and respond to other people when you are available. Let them know
+effectively and respond to other people when you _are_ available. Let them know
 that you have seen their message, even by just adding a :+1: as a reaction.
-Also let the channel know if you're doing something about it. This will avoid
-other people starting to do the same work.
+Also let the channel know if you're doing something about the contents of a
+message. This will avoid other people starting to do the same work.
 
-Everybody else's responsibilities
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Everybody else's responsibility is to not abuse the privilege of being able to
-interrupt you in your work.
+Your responsibilities as a message sender
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+When sending a message, your responsibility is to not abuse the privilege of 
+being able to interrupt others by overriding their notification settngs. Use
+terms of relative urgency to ensure that the receiver knows what priority
+they should assign to your message.
 
+On the other hand, it's not your job to prevent the other person from receiving
+your communication. You can send your email, your chat message, your asynchronous
+communication at any time. It's the receiver's responsibility to ensure that
+they are undisturbed by these messages when they want to be left alone for
+whatever reason, like when they are on vacation.
+
+Your responsibilities as a manager
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Don't make asynchronous communication useless to people by demanding they treat
+it like synchronous communication. If you need something urgently, use urgent
+communication methods. Make a concious decision about the cost that you are
+imposing on your victim. If you send an email when someone is on vacation, as
+per above, that's ok. But if you then insist that they check their phone every
+10 minutes so they reply to your email, you have just multiplied the cost
+for everybody immensely. So don't do that.
 
 "Fail Open"
 -----------
@@ -110,6 +126,13 @@ everybody in this channel" and if it's going to be a longer conversation, just
 move the discussion to its own channel, this way you still give people a chance
 to participate, just like when you meet at the coffee machine and talk about
 something in earshot of other people.
+
+The solution to the above is almost never an email thread. Reading up on a
+Slack conversation or thread you have been invited to after it had already
+started, is infinitely better than reading through a nested email thread 
+forwarded to you. Especially if your company insists on using an email client
+like Outlook that for 20+ years hasn't learned basic features like nested
+quoting.
 
 
 Slack channels are cheap
