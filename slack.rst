@@ -184,8 +184,9 @@ each other.
 
 Naming a channel
 ~~~~~~~~~~~~~~~~
-I disagree with having intricate naming rules for Slack channels. It's worth
-doing just a little bit of due diligence before creating a channel though:
+As a corollary of the above, I disagree with having intricate naming rules 
+for Slack channels. However, I feel that it's worth doing just a little bit 
+of due diligence before creating a channel though:
 
 1. Do a cursory check if a channel already exists that covers what you're 
    trying to do.
@@ -198,6 +199,8 @@ doing just a little bit of due diligence before creating a channel though:
 4. Remember that many channels will only be around for a couple of weeks, 
    don't worry about it too much.
 5. If you come up with a better name later, just rename your channel.
+6. If somebody points out another channel already serving your purpose,
+   check if they're right and just move your conversations over there.
 
 
 Avoid naked pings!
