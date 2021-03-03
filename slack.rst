@@ -182,6 +182,23 @@ configuration options to ensure that you're part of the conversations that are
 useful for you without impacting other peoples' options to communicate with
 each other.
 
+Naming a channel
+~~~~~~~~~~~~~~~~
+I disagree with having intricate naming rules for Slack channels. It's worth
+doing just a little bit of due diligence before creating a channel though:
+
+1. Do a cursory check if a channel already exists that covers what you're 
+   trying to do.
+2. If there exists a channel for a similar thing you're doing, try to follow 
+   that channel's naming pattern (e.g. if there are 6 channels called
+   ``hiring-[jobname]`` don't create a seventh channel called 
+   ``myjob_hire``). This groups related channels for people who are in
+   every one.
+3. Try to find a descriptive name for the channel's scope.
+4. Remember that many channels will only be around for a couple of weeks, 
+   don't worry about it too much.
+5. If you come up with a better name later, just rename your channel.
+
 
 Avoid naked pings!
 ------------------
