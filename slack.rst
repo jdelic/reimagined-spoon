@@ -9,7 +9,7 @@ document contains those thoughts.
 Asynchronous communication is a quick win for any IT organization
 -----------------------------------------------------------------
 It seems to be widely ignored, but for years now, scientifically there have
-been indications that open plan offices are *not* facilitating positive
+been indications that open-plan offices are *not* facilitating positive
 communication, good practices or better knowledge sharing, or at least only at
 the cost of serious drawbacks. For more context, you can refer to:
 
@@ -72,7 +72,7 @@ support your work by making sure that your notification settings and channel
 settings and your "away" and "do not disturb" settings are configured optimally.
 
 This is not an excuse to have your notifications snoozed 24/7 or to just ignore
-your team's channel. Instead, it's also your responsiblity to communicate
+your team's channel. Instead, it's also your responsibility to communicate
 effectively and respond to other people when you _are_ available. Let them know
 that you have seen their message, even by just adding a :+1: as a reaction.
 Also let the channel know if you're doing something about the contents of a
@@ -89,7 +89,7 @@ notification snooze if their message is urgent.
 Your responsibilities as a message sender
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 When sending a message, your responsibility is to not abuse the privilege of 
-being able to interrupt others by overriding their notification settngs. Use
+being able to interrupt others by overriding their notification settings. Use
 terms of relative urgency in your message to ensure that the receiver knows what 
 priority they should assign to your message.
 
