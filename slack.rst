@@ -102,22 +102,22 @@ your communication. If we all adhere to the rules laid out in this document,
 you should be able to send your email, your chat message, your asynchronous
 communication at any time. It's the receiver's responsibility to ensure that
 they are undisturbed by these messages when they want to be left alone for
-whatever reason, like when they are on vacation. It's your job to not be bothered
-by the asynchonicity of the interaction or deliberately impose a synchronous
-method when necessary.
+whatever reason, like when they are on vacation. It's your job to not be
+bothered by the asynchronicity of the interaction or deliberately impose a
+synchronous method when necessary.
 
 Your responsibilities as a manager in my orgchart
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Don't make asynchronous communication useless to people by demanding they treat
 it like synchronous communication. 
 
-If you need something urgently, use urgent communication methods. Make a concious 
-decision about the cost that you are imposing on your victim. If you send an email 
-when someone is on vacation, as per above, that's ok. But if you then insist that 
-they check their phone every 10 minutes so they can reply to your email, you have 
-just multiplied the cost for everybody immensely, yourself included. So don't do 
-that. Think about what you are going to do, then override their notification 
-settings.
+If you need something urgently, use urgent communication methods. Make a
+conscious decision about the cost that you are imposing on your victim. If you
+send an email when someone is on vacation, as per above, that's ok. But if you
+then insist that they check their phone every 10 minutes so they can reply to
+your email, you have just multiplied the cost for everybody immensely, yourself
+included. So don't do that. Think about what you are going to do, then override
+their notification settings.
 
 
 "Fail Open"
