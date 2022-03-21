@@ -106,6 +106,18 @@ whatever reason, like when they are on vacation. It's your job to not be
 bothered by the asynchronicity of the interaction or deliberately impose a
 synchronous method when necessary.
 
+It's important to note that there is _one exception_ to what I wrote above: the
+above is only true if the receiver _can actually remove themselves from the
+conversation or manage their notification settings_. In many companies there
+are mailing lists that reach "all hands" or similar methods. They are important
+as they allow company-wide (or team-wide, etc.) communication. However, in that
+specific case, it's on _you_ as the sender to really make sure that you are
+using these methods only for appropriate communication that's useful to at
+least a majority of the recipients. If you keep sending communications to a
+mailing list that's only useful for a subset of a list, consider creating a new
+subset of the list, or sending the communication through other means
+altogether.
+
 Your responsibilities as a manager in my orgchart
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Don't make asynchronous communication useless to people by demanding they treat
