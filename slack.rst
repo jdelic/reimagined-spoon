@@ -187,12 +187,25 @@ and so "designing" them beforehand makes good sense.
 However, I don't feel that the same is true for structures that are as easy to
 change like the channel structure on a chat server. As I already mentioned,
 *channels are cheap*. So I don't think that we should enforce any particular
-channel structure. Instead, trust people to self-organize into efficient
-groups and do the same for your own work. Don't fear being part of many, many,
+global channel structure. Some basic rules can make sense (e.g. every
+team should have a ``team-[name]`` channel as a way to contact them). 
+Aside from that, trust people to self-organize into efficient groups 
+and do the same for your own work. Don't fear being part of many, many,
 channels! Use Slack's per-conversation notification settings and powerful
 configuration options to ensure that you're part of the conversations that are
 useful for you without impacting other peoples' options to communicate with
 each other.
+
+Message retention settings
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Message retention is an interesting topic. I generally like to set
+message retention on "general chat" channels (e.g. #general) to around
+30 days. I encourage you to think about the type of channel you have just
+opened. If it's a general chat channel for your team, set a retention
+policy. If it's a channel for a specific project however, retaining messages
+is a good idea. Slack's archive should never be treated as a replacement 
+for documentation or tickets. However, its archive is very useful, so 
+thats's the balance you have to strike.
 
 Naming a channel
 ~~~~~~~~~~~~~~~~
