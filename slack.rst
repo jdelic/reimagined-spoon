@@ -73,7 +73,7 @@ settings and your "away" and "do not disturb" settings are configured optimally.
 
 This is not an excuse to have your notifications snoozed 24/7 or to just ignore
 your team's channel. Instead, it's also your responsibility to communicate
-effectively and respond to other people when you _are_ available. Let them know
+effectively and respond to other people when you *are* available. Let them know
 that you have seen their message, even by just adding a :+1: as a reaction.
 Also let the channel know if you're doing something about the contents of a
 message. This will avoid other people starting to do the same work.
@@ -106,12 +106,12 @@ whatever reason, like when they are on vacation. It's your job to not be
 bothered by the asynchronicity of the interaction or deliberately impose a
 synchronous method when necessary.
 
-It's important to note that there is _one exception_ to what I wrote above: the
-above is only true if the receiver _can actually remove themselves from the
-conversation or manage their notification settings_. In many companies there
+It's important to note that there is **one exception** to what I wrote above: the
+above is only true if the receiver **can actually remove themselves from the
+conversation or manage their notification settings**. In many companies there
 are mailing lists that reach "all hands" or similar methods. They are important
 as they allow company-wide (or team-wide, etc.) communication. However, in that
-specific case, it's on _you_ as the sender to really make sure that you are
+specific case, **it's on you as the sender** to really make sure that you are
 using these methods only for appropriate communication that's useful to at
 least a majority of the recipients. If you keep sending communications to a
 mailing list that's only useful for a subset of a list, consider creating a new
