@@ -206,7 +206,7 @@ opened. If it's a general chat channel for your team, set a retention
 policy. If it's a channel for a specific project however, retaining messages
 is a good idea. Slack's archive should never be treated as a replacement 
 for documentation or tickets. However, its archive is very useful, so 
-thats's the balance you have to strike.
+that's the balance you have to strike.
 
 Naming a channel
 ~~~~~~~~~~~~~~~~
