@@ -82,9 +82,10 @@ If you regularly have to answer urgent emails, turn on email notifications.
 Otherwise don't.
 
 For example, I check my email 3 or 4 times per work-day or once every couple of 
-days when on vacation. When on vacation, unread notification badges are turned
-off for email. I have an autoresponder informing people to contact me via
-Slack and override my notification snooze if their message is urgent.
+days when on vacation. Unread notification badges are turned
+off for email. When on vacation, I have an autoresponder informing 
+people to contact me via Slack and override my notification 
+snooze if their message is urgent.
 
 Your responsibilities as a message sender
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
